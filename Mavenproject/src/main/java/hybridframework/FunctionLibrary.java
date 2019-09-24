@@ -244,7 +244,18 @@ public static void mouseClick(WebDriver driver)
 	}
 	}*/
 
+// sample method
+	public void samplemethod()
+	{
+		
+
+
+
+
+	}
 }
+
+
 
 
 
